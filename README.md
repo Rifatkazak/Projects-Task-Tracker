@@ -1,4 +1,7 @@
-Command-Line Task Manager
+# Command-Line Task Manager
+
+[Project Page: Projects-Task-Tracker](https://github.com/Rifatkazak/Projects-Task-Tracker)
+
 This is a simple command-line task management application designed to help users track tasks through a JSON file. It allows users to add, update, delete, and mark tasks as in progress or done. This tool is suitable for quick task management directly from the terminal.
 
 Features
@@ -95,4 +98,3 @@ Notes
 The JSON file is stored in the current directory, making it easy to back up or move task data.
 The application relies solely on native file handling, ensuring lightweight, dependency-free operation.
 
-https://github.com/Rifatkazak/Projects-Task-Tracker
